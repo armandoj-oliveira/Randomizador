@@ -16,7 +16,7 @@ void BoasVindas(string nome)
 
 void ExibirMenu()
 {
-    Console.WriteLine("\n Antes de tudo, leia as opções: ");
+    Console.WriteLine("\nAntes de tudo, leia as opções: ");
     Console.WriteLine("Digite 1 para iniciar o jogo!");
     Console.WriteLine("Digite 0 para sair do jogo!");
     Console.Write("---> ");
