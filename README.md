@@ -1,0 +1,1 @@
+Desafie sua sorte! 🎲 Em nosso jogo randomizador, você enfrentará a emoção de acertar o jogo escolhido aleatoriamente pela máquina. Teste suas habilidades e divirta-se enquanto tenta superar os desafios imprevisíveis que nosso randomizador oferece. Boa sorte e que os dados estejam a seu favor! 🎮✨
